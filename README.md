@@ -1428,12 +1428,56 @@ The system was demonstrated in a college-hostel environment rather than remainin
 
 ---
 
-# 🎥 Demo
+# 🎥 Demo & Real-World Deployment
 
-The original repository contains a LinkedIn post showing the SMART_CCTV project deployment/demo.
+## 🏫 Successfully Deployed in Our College Hostel
 
-**Demo:**
-https://www.linkedin.com/posts/deevanshu-vaidya-598320253_smarttechnology-realtimedata-automation-ugcPost-7100302609978200064-ROHF/
+SMART_CCTV was successfully **deployed and tested in our college hostel environment** during our college period.
+
+The system was not limited to a development or demonstration setup — it was **actually installed and used for real-time hostel surveillance**, where it performed reliably during our deployment period.
+
+The system was used for:
+
+* 🎥 Real-time CCTV monitoring
+* 👤 Face detection and identification
+* 🚨 Unknown-person detection
+* 🚪 Visitor In/Out monitoring
+* 📊 Automated visitor record management
+* 🖼️ Capturing relevant visitor/unknown-person images
+
+The deployment gave us practical experience in taking a computer-vision project from development to a **real-world working environment**.
+
+> **Deployment Status:** ✅ Successfully deployed and working successfully during our college hostel deployment period.
+
+---
+
+## 🎬 Project Demo
+
+The project was also demonstrated through a LinkedIn post showcasing the SMART_CCTV system and its real-world implementation.
+
+**Demo & Deployment:**
+[View SMART_CCTV Demo on LinkedIn](https://www.linkedin.com/posts/deevanshu-vaidya-598320253_smarttechnology-realtimedata-automation-ugcPost-7100302609978200064-ROHF/?utm_source=chatgpt.com)
+
+---
+
+## 🌟 Real-World Impact
+
+Deploying SMART_CCTV in our college hostel helped us validate the system beyond a local development environment.
+
+The project demonstrated how computer vision, face recognition, and automated visitor tracking can be combined to create a practical security-monitoring solution.
+
+This real-world deployment also helped us understand challenges associated with:
+
+* Camera positioning
+* Real-time video processing
+* Face-recognition accuracy
+* Lighting conditions
+* Visitor movement detection
+* Continuous application operation
+* Local data management
+
+The experience provided valuable practical exposure to **deploying and maintaining a computer-vision-based application in an actual environment**.
+
 
 ---
 
