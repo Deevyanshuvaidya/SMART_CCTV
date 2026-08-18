@@ -1581,6 +1581,28 @@ The project demonstrates how **computer vision and automation can be combined wi
 
 # 📄 License
 
-No explicit open-source license is currently specified in the repository.
+⚖️ Copyright & Usage
 
-If you intend to make the project open source for reuse, consider adding an appropriate license such as **MIT**, subject to your own ownership and project requirements.
+© 2026 Deevyanshu Vaidya. All Rights Reserved.
+
+This project and its source code are provided for educational, demonstration, and portfolio purposes.
+
+The source code, documentation, design, and original implementation are the intellectual property of the author unless otherwise stated.
+
+Unauthorized:
+
+Copying or reproducing the source code
+Redistributing the project or substantial portions of it
+Publishing modified or unmodified versions as your own work
+Using the project commercially without permission
+Removing or modifying copyright and attribution notices
+
+may result in copyright or other intellectual-property issues where applicable.
+
+If you wish to reuse, redistribute, modify, or use substantial portions of this project for another purpose, please contact the author and obtain appropriate permission first.
+
+Third-Party Components
+
+This project may use third-party libraries, frameworks, datasets, models, icons, images, or other components that are subject to their respective licenses and copyrights.
+
+Users are responsible for complying with the applicable licenses and terms of those third-party components
